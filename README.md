@@ -1,5 +1,5 @@
 # Maven Docker Submit Project
-This project is a simple example of using Maven to build a Java application, Docker to containerize it, and a submit script to deploy it.
+This project is a simple "hello world" example of using Maven to build a Java application, Docker to containerize it, and a submit script to deploy it.
 
 ## Prerequisites
 Before running this project, you'll need to have the following software installed:
